@@ -1,9 +1,9 @@
 Peritia
 ==========
 
-.. image:: ./images/peritia.png
+.. image:: ./images/agrioptics.png
    :width: 300
-   :alt: Peritia project logo.
+   :alt: AgriOptics project logo.
 
 .. note::
 
@@ -14,21 +14,13 @@ Peritia
    :caption: Introduction
 
    introduction
-   features
-   installation
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Miscellaneous pages  
 
-   troubleshooting
-   releasenotes
-   faq
-   support.rst
    team
-   changes.rst
-   appendix.rst
 
 
 
@@ -60,7 +52,7 @@ Bug tracker
 ----------------
 
 If you have any suggestions, bug reports, or annoyances please report them
-to our issue tracker at `Bug tracker🪲️ <https://github.com/scalabli/peritia/issues/>`_ or send an email to:
+to our issue tracker at `Bug tracker <https://groups.google.com/g/scalabli>`_ or send an email to:
 
  📥 scalabli@proton.me | scalabli@googlegroups.com
 

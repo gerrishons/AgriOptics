@@ -1,49 +1,14 @@
-What is Peritia?
+What is AgriOptics?
 ===================
 
-**Peritia** is a powerful accessibility suite. Its clean user interface and feature-rich tools to help people with disabilities to access information,
-communicate with others, and be productive without needing constant assistance.
+**AgriOptics** is a precision farming software that uses AI to forecast the survival rate of planted seedlings and predict harvest yields. This software is designed for farmers and agricultural professionals who are looking to optimize their crop yields, reduce waste, and increase efficiency.
 
-Peritia includes several applications that  enhances the usability and accessibility of technology for people with various disabilities. It can assist people who have visual, 
-hearing, cognitive, or motor impairments to navigate and use technology with greater ease.
+The software provides farmers with real-time insights into crop health and yield potential, allowing them to make more informed decisions about crop management, planting schedules, and harvest logistics. By using AI to analyze historical data and real-time sensor data, the software can accurately predict crop survival rates and harvest yields with a high degree of accuracy.
 
-Here's a list of available tools that makes Peritia the most versatile Accessibility suite:
+Unlike existing solutions, which rely on manual observations and subjective assessments, our software offers a more objective and data-driven approach to precision farming. This not only saves farmers time and effort but also helps them to reduce input costs, improve sustainability, and maximize profits.
 
-.. image:: ./images/asl.png
-   :width: 100
-   :alt: Peritia ASL logo.
+We leverage artificial intelligence and sophisticated data analysis techniques to process historical and real-time sensor data. By analyzing vast amounts of information, we provide accurate predictions of crop survival rates and harvest yields. 
 
-- ``Peritia ASL`` *(American Sign Language catalogue program that can help individuals learn and improve their American Sign Language skills. It features interactive signing instructions,a finger spelling tool and a search bar to search signs by word or by browsing through categories.)*
-
-.. image:: ./images/aura.png
-   :width: 100
-   :alt: Peritia aura logo.
-
-- ``Aura`` *(Cursor highlighting tool that is used to make the cursor more visible or distinguishable on a computer screen. Can be useful for individuals with visual impairments or for those using a computer in a brightly lit environment.)*
-
-.. image:: ./images/bigread.png
-   :width: 100
-   :alt: Peritia big read logo.
-
-- ``BigRead`` *(Magnification tool designed to help people with visual impairments to see better by enlarging text and images on their computer screen)*
-
-.. image:: ./images/sidekick.png
-   :width: 100
-   :alt: Peritia side kick logo.
-
-- ``SideKick`` *(Software designed to provide you with accurate and up-to-date verbal information about your device's battery health, charge status, and time. It can also track your battery health over time by analyzing your charging habits and usage patterns, and provide you with verbal insights into how to optimize your device's battery life and improve its overall health. Useful for individuals with visual impairments or who prefer a spoken feedback instead.)*
- 
-.. image:: ./images/talkify.png
-   :width: 100
-   :alt: Peritia talkify logo.
-
-- ``Talkify`` *(Text to speech software that can play written text as spoken words. Designed with people with disabilities in mind. Whether you have visual impairments, dyslexia, or any other disability that makes reading challenging, Talkify is here to help)*
-
-
-.. image:: ./images/textease.png
-   :width: 100
-   :alt: Peritia text ease logo.
-
-- ``TextEase`` *(Text editor that prioritizes accessibility.It allows users to write and edit text while receiving audio feedback in real-time while the user types. The editor will speak out loud each character that is inputted, allowing for a more immersive writing experience. Additionally, the editor may provide spoken suggestions for grammar or spelling errors. TextEase can be useful for people with visual impairments, as well as for anyone who prefers an audio-based approach to writing and editing.)*
+AgriOptics provides farmers with real-time insights into crop health and yield potential. This enables proactive decision-making, allowing farmers to promptly address potential issues such as disease outbreaks, nutrient deficiencies, or irrigation problems. By having access to up-to-date information, farmers can make timely interventions to optimize crop performance and minimize losses.
 
 
